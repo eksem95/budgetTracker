@@ -1,6 +1,6 @@
 # budgetTracker
 github: https://github.com/eksem95/budgetTracker
-deployment: https://eksem-95-budget.herokuapp.com/
+deployment: https://rocky-mesa-76186.herokuapp.com/
 
 This app allows users to input transactions while offline, utilizing indexedDB and service workers and cache data.
 
